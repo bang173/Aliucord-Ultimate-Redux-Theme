@@ -2,7 +2,7 @@
   "name": "UltimateRedux", 
   "author": "bangakek",
   "version": "0.1.0",
-  "updater": "",
+  "updater": "https://raw.githubusercontent.com/bang173/Aliucord-Ultimate-Redux-Theme/main/Bang_UltimateRedux.json",
   "mention_highlight": 671136980,
   "simple_bg_color": -15655881,
   "simple_bg_secondary_color": -15392187,
