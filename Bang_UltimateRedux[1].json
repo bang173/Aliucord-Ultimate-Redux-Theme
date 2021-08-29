@@ -1,0 +1,12 @@
+{
+  "name": "Aliucoloured", 
+  "author": "bangakek",
+  "version": "0.1.0",
+  "mention_highlight": 671136980,
+  "simple_bg_color": -15655881,
+  "simple_bg_secondary_color": -15392187,
+  "simple_accent_color": -8540975, 
+  "drawablecolor_drawable_overlay_channels_selected_dark": -10992187,
+  "statusbar_color": -15655881,
+  "input_background_color": -15393187
+}
